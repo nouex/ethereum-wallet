@@ -1,5 +1,5 @@
 # Ethereum Wallet
-A very primitive implementation of a non-custodial Ethereum wallet.
+A very primitive implementation of a non-custodial Ethereum wallet. It uses Async Storage to save account data locally.
 
 ## Environment
 * Node 10.15.1
